@@ -21,7 +21,7 @@ Implemented in transducer_asr.ipynb file
  - Dropout of 0.1 
  - ADAM optimizer with exponential decay of learning rate
 
-## Transducer model with speech imput
+## Transducer model with speech input
 
 Implemented in asr_train.ipynb file
  - Speech data samples at 16KHz, Hanning window of 20msec and 10mse overlap
